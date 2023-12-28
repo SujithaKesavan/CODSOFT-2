@@ -19,10 +19,10 @@
 
 **3.Run the application and experience the ATM functionalities.**
 
-**Contribution Guidelines:**
+# Contribution Guidelines:
 
   Contributions are welcome! If you have ideas for improvements or new features, please open an issue or submit a pull request. Be sure to follow our contribution guidelines.
 
-**License:**
+# License:
   This project is licensed under the MIT License - see the LICENSE file for details.
   Feel free to explore, contribute, and enjoy the simulation of an ATM Interface in the comfort of your code editor!
